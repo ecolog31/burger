@@ -1,0 +1,24 @@
+
+            
+            .stylename{
+                color:red;
+                font-size: 12;
+            } 
+             .stylename2{
+                color:green;
+                font-size: 22;
+            } 
+            
+             .stylename3{
+                color:orange;
+                font-size: 22;
+            } 
+.menu a button{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    background-color: aqua;
+    float: left;
+    cursor: pointer;
+}
+      

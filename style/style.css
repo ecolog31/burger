@@ -1,0 +1,133 @@
+
+.content{
+width: 1024px;
+height: 1935px;
+background-color: #fca025;
+margin: auto;
+.body{
+ width: 1024px;
+overflow: auto;
+}
+
+}
+.menu {
+
+ height: 100px;
+ width: 1024px;
+ background-color: #4fffff;
+margin: 0 auto;
+}
+
+
+.menu a button{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    background-color: #b2ddae;
+
+    float: left;	
+    cursor: pointer;
+	
+}
+.menu a button:hover    {
+    background-color: blueviolet;
+    width: 100px
+}
+.first{
+	
+	height: 394px;
+}
+.half_first{
+	background-image:url(../image/Hero/Layer-1.png);
+	width:512px;
+	height: 394px;
+	float:left;
+}
+.half_second{
+	background-image:url(../image/Hero/Layer-2.png);
+	width:512px;
+	height: 394px;
+	float:left;
+}
+.hamburger{
+	background-color: #3C6;
+	height: 465px;
+}
+
+.space{
+	width: 139px;
+	background-color:#FFF;
+	height: 465px;
+	float: left;
+}
+.iner_space{
+	width: 110px;
+	background-color:#FFF;
+	height: 465px;
+	float: left;
+}
+.img_hamburger_left{
+	padding-top: 150px;	
+}
+.img_hamburger_centr{
+	padding-top: 150px;	
+}
+.img_hamburger_right{
+	padding-top: 150px;
+}
+.img_hamburger_left:hover{
+	
+	background-image:url(../image/Burgers/Layer-4-hover.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.img_hamburger_centr:hover{
+	padding-top: 150px;	
+	background-image:url(../image/Burgers/Layer-51-hover.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.img_hamburger_right:hover{
+	padding-top: 150px;	
+	background-image:url(../image/Burgers/Layer-6_hover.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.iner_hamburger_left{
+	height: 465px;
+	width: 175px;
+	background-color:#FFF;
+	float: left;
+	
+}
+
+.iner_hamburger_centr{
+	height: 465px;
+	width: 175px;
+	background-color:#FFF;
+	float: left;	
+}
+.iner_hamburger_right{
+	height: 465px;
+	width: 176px;
+	background-color:#FFF;
+	float: left;	
+}
+
+.price{
+	height: 400px;
+	background-image:url(../image/Wait%20Section/Layer-71.jpg);
+	
+	}
+.photo{
+	height: 200px;
+	background-color:#FFF;
+	width: 1024px;
+	margin: 0 auto;
+	}
+.block_img{
+	height: 200px;
+	width: 710px;
+	background-color:#fca025;
+	float: left;
+	}
